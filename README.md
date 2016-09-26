@@ -5,6 +5,7 @@
 * [C++ 编程规范](cpp_code_guide.md)
 * [Go 编程规范](go_code_guide.md)
 * [git 规范](git.md)
+* [开发工具](tools.md)
 
 ## 文档规范
 * 非文档资源放到 `assets` 目录下.
