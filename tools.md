@@ -8,6 +8,8 @@
 
 ## wiki
 * [gollum](https://github.com/gollum/gollum)
+* 内部 wiki 使用 Google OAuth2 认证.
+* 外部 wiki 使用 GitHub OAuth2 认证.
 
 ## IDE
 * IntelliJ IDEA
