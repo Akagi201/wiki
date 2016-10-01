@@ -7,4 +7,4 @@
 * OpenResty(ngx_lua): 开发反向代理, 负载均衡服务, 优先考虑.
 * Rust: 在流媒体领域非常有潜力的一门语言.
 * Angular2: 使用 TypeScript 作为开发语言, 类型检查, 贴近后端思维, 适合大项目.
-* ReactJS/Vue: 推荐小项目使用.
+* ReactJS/Vue: 推荐小项目使用. 推荐使用 ReactJS.
