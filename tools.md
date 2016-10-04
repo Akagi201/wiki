@@ -31,3 +31,6 @@
 ## linux 发行版
 * ubuntu
 * arch
+
+## 流程图
+* [draw.io](https://draw.io)
