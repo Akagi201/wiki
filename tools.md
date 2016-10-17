@@ -41,6 +41,7 @@
 
 ## lint
 * [htmllint](https://github.com/htmllint/htmllint)
+* [gometalinter](https://github.com/alecthomas/gometalinter)
 
 ## 网络调试工具
 * 内网穿透: [ngrok](https://github.com/inconshreveable/ngrok)
