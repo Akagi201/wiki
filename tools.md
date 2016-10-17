@@ -39,5 +39,8 @@
 * 实时可视化工具: [browser-sync](https://browsersync.io/)
 * 构建工具: [webpack](https://webpack.github.io/)
 
+## lint
+* [htmllint](https://github.com/htmllint/htmllint)
+
 ## 网络调试工具
 * 内网穿透: [ngrok](https://github.com/inconshreveable/ngrok)
