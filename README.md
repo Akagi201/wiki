@@ -5,6 +5,7 @@
 * [C 最佳实践](c_best_practice.md)
 * [C++ 编程规范](cpp_code_guide.md)
 * [Go 编程规范](go_code_guide.md)
+* [Shell 编程规范](shell_code_guide.md)
 * [git 规范](git_best_practice.md)
 * [开发工具](tools.md)
 
