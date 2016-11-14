@@ -18,6 +18,17 @@
 ## 初始化
 * C语言允许静态初始化自动分配数组, `uint32_t numbers[64] = {0};`  `struct thing localThing = {0};`
 
+## 注释
+* 内部函数, 注释写到函数定义的上面. 外部函数, 注释写到头文件的函数的上面.
+
+## 结构体定义
+
+```
+typedef xxx_xxxx {
+  xxxx;
+} xxx_xxx_t;
+```
+
 ## format 工具
 * [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html)
 * [clang-tidy](http://clang.llvm.org/extra/clang-tidy/)
