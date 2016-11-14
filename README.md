@@ -2,7 +2,6 @@
 
 ## 文档列表
 * [技术栈](tech_stack.md)
-* [C 最佳实践](c_best_practice.md)
 * [C++ 编程规范](cpp_code_guide.md)
 * [Go 编程规范](go_code_guide.md)
 * [Shell 编程规范](shell_code_guide.md)
