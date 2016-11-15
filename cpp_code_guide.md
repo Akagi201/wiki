@@ -32,6 +32,7 @@ typedef xxx_xxxx {
 ## format 工具
 * [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html)
 * [clang-tidy](http://clang.llvm.org/extra/clang-tidy/)
+* `clang-format -sort-includes -style=Google -i xxx.c xxx.h`
 
 ## 开发工具
 * sublime text
