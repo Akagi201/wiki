@@ -56,7 +56,7 @@ typedef struct janus_ice_stats_item {
 ```
 
 #### 文件头
-以上看文件的字段名：有文件名(\file)，作者(\auther)，版权声明(copyright)，
+文件头的字段名：有文件名(\file)，作者(\auther)，版权声明(copyright)，
 简述(\brief)，详细描述(details)，模块名(\ingroup) ，引用(\ref)
 如：
 ```
