@@ -4,6 +4,7 @@
 * [技术栈](tech_stack.md)
 * [C++ 编程规范](cpp_code_guide.md)
 * [Go 编程规范](go_code_guide.md)
+* [JS 编程规范](js_code_guide.md)
 * [Shell 编程规范](shell_code_guide.md)
 * [SQL 编程规范](sql_code_guide.md)
 * [git 规范](git_best_practice.md)
