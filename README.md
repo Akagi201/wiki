@@ -9,6 +9,7 @@
 * [SQL 编程规范](sql_code_guide.md)
 * [git 规范](git_best_practice.md)
 * [开发工具](tools.md)
+* [日志最佳实践](log_best_practice.md)
 
 ## 文档规范
 * 非文档资源放到 `assets` 目录下.
