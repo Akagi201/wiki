@@ -18,10 +18,15 @@
 ## 哪些地方需要记录日志.
 * 对外部系统与模块的调用前后.
 * 状态变化. 关键变量, 以及正在做哪些重要额事情, 通过日志了解程序此时在什么状态中.
-* 模块的输入与输出.
+* 模块或系统的输入与输出.
 * 业务异常.
 * 非预期执行, "不可能"执行到的地方, 如, 很少出现的 else 情况.
 * 大批量数据的执行进度.
+
+## 好的日志
+* 使用唯一的 ID.
+* 带上 context, human readable msg.
+* 异常与错误, 要能够定位到源码.
 
 ## 应该避免哪些日志.
 * 临时 debug 日志.
@@ -34,3 +39,5 @@
 
 ## Refs
 * [splunk Logging best practices](http://dev.splunk.com/view/logging-best-practices/SP-CAAADP6)
+* [Discover Logging Best Practices Part 1: Collecting Logs](https://logmatic.io/beyond-application-monitoring-discover-logging-best-practices/)
+* [Discover Logging Best Practices Part 2: Application Troubleshooting & Investigation](https://logmatic.io/discover-logging-best-practices-application-troubleshooting/)
