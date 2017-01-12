@@ -41,3 +41,7 @@
 * [splunk Logging best practices](http://dev.splunk.com/view/logging-best-practices/SP-CAAADP6)
 * [Discover Logging Best Practices Part 1: Collecting Logs](https://logmatic.io/beyond-application-monitoring-discover-logging-best-practices/)
 * [Discover Logging Best Practices Part 2: Application Troubleshooting & Investigation](https://logmatic.io/discover-logging-best-practices-application-troubleshooting/)
+* [Discover Logging Best Practices Part 2: Application Troubleshooting & Investigation](https://logmatic.io/discover-logging-best-practices-application-troubleshooting/)
+* [打 log 心得](https://zhuanlan.zhihu.com/p/24785018)
+
+
