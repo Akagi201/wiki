@@ -1,5 +1,5 @@
-## 原则
-* 一个 commit 一个 patch.
+## Principle
+* one commit per patch.
 
 ## steps
 ### gen patch file
