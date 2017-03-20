@@ -117,6 +117,7 @@ typedef xxx_xxxx {
 * gmock: <https://github.com/google/googlemock>
 
 ## 包管理工具
+* [hunter](https://github.com/ruslo/hunter) 推荐, 基于 cmake 的包管理器.
 * [clib](https://github.com/clibs/clib) 推荐, 类似 npm 的包管理方式, 就是 npm 的社区开发的, 比较简单.
 * [conan](https://conan.io/) 比较复杂, 不是很直观, 强制使用 cmake.
 
