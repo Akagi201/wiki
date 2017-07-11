@@ -43,5 +43,4 @@
 * [Discover Logging Best Practices Part 2: Application Troubleshooting & Investigation](https://logmatic.io/discover-logging-best-practices-application-troubleshooting/)
 * [Discover Logging Best Practices Part 2: Application Troubleshooting & Investigation](https://logmatic.io/discover-logging-best-practices-application-troubleshooting/)
 * [打 log 心得](https://zhuanlan.zhihu.com/p/24785018)
-
-
+* [最佳日志实践(v2.0)](https://zhuanlan.zhihu.com/p/27363484)
